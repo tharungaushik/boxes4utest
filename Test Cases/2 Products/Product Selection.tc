@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Product Selection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4f6a8fd-1c47-4acb-a93a-4ea386a6f92e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e04c955-5976-453e-89c9-68e3eb598a1a</id>
+      <masked>false</masked>
+      <name>carttxt</name>
+   </variable>
+</TestCaseEntity>

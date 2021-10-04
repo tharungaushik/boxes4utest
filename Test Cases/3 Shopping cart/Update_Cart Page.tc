@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_Cart Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e95b62af-162f-47c0-a8ac-81d84553cce8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>794cdae4-75fb-4765-a2bf-1de85f83bfde</id>
+      <masked>false</masked>
+      <name>carturl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40d4137a-00bd-4d23-907e-1185785f19c3</id>
+      <masked>false</masked>
+      <name>qty</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d284e73d-c238-4011-a9a1-c881709cfdcd</id>
+      <masked>false</masked>
+      <name>addtotal</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3682d107-da53-4e4a-bafb-e532cbd95e75</id>
+      <masked>false</masked>
+      <name>updatemessage</name>
+   </variable>
+</TestCaseEntity>

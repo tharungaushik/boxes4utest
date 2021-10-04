@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Exsting user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a75de35-7ae0-443c-bab9-b9ed605f99c0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15b86889-26de-4116-9229-759ab35e8c59</id>
+      <masked>false</masked>
+      <name>checkouturl</name>
+   </variable>
+</TestCaseEntity>

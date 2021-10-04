@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_Card Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aad1b56-00a6-4586-acb5-8af3ac61d336</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b59889b-1359-4c88-b33e-0cff7a2e6af7</id>
+      <masked>false</masked>
+      <name>completeurl</name>
+   </variable>
+</TestCaseEntity>

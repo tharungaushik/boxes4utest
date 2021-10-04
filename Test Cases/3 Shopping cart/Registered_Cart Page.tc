@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registered_Cart Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d862fba2-fc7e-4d24-8290-c58d36907e8b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21f222e7-757f-4b8f-9c82-dd57d6451485</id>
+      <masked>false</masked>
+      <name>carturl</name>
+   </variable>
+</TestCaseEntity>

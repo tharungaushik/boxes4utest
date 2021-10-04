@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New_No Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5229f12b-69cc-436c-beae-7c0c6e5da384</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5cdd6972-96a3-43ea-9287-abcf76b60af2</id>
+      <masked>false</masked>
+      <name>orderidtxt</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bae0e8e-2076-4f8c-b27a-78366b93c70e</id>
+      <masked>false</masked>
+      <name>completeurl</name>
+   </variable>
+</TestCaseEntity>

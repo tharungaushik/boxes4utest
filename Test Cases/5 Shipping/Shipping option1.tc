@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Shipping option1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8acd6b5-4e5b-4c77-a080-0c2a969755f9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>66eef482-703b-40cd-b634-bb30c8745133</id>
+      <masked>false</masked>
+      <name>reviewurl</name>
+   </variable>
+</TestCaseEntity>

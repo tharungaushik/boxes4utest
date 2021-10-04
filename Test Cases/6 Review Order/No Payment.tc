@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>No Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e5b1634-76dd-4870-8026-4caa576d8310</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27f3bced-2187-4dc8-b506-ac0219dbbcb1</id>
+      <masked>false</masked>
+      <name>orderidtxt</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f440ed29-7409-42ea-a2e0-0bc5a4bf407f</id>
+      <masked>false</masked>
+      <name>completeurl</name>
+   </variable>
+</TestCaseEntity>
